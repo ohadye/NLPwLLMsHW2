@@ -12,4 +12,5 @@ dependencies = [
     "ipywidgets>=8.1.7",
     "sentence-transformers>=4.1.0",
     "transformers>=4.52.4",
+    "matplotlib>=3.8.0",
 ]
